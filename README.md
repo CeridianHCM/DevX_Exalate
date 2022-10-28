@@ -11,3 +11,8 @@ These scripts are configured within the tools themselves, placed in the incoming
 
 # Contribute
 Contact DevX Eng for details if changes are necessary.
+
+
+# Updates
+Updates should be pushed both to GitHub ( https://github.com/CeridianHCM/DevX_Exalate ) **and** ADO Services ( https://dev.azure.com/Ceridian/DevX%20Engineering/_git/DevX_Exalate.git )
+We suggest using one repo as the checkout origin, and setting the other as an additional remote. 
